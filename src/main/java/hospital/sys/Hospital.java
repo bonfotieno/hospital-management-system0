@@ -189,7 +189,7 @@ public class Hospital implements Servlet {
                                     +"</div>"
                                 +"</form>"
                             +"</div>"
-                            +"<a href=\"/hospital-management-system/register\" style=\"text-align:Center;font-weight:bold;font-size:120%;padding: 0 2%\">Register As Patient</a>"
+                            +"<a href=\"/hospital-management-system0/register\" style=\"text-align:Center;font-weight:bold;font-size:120%;padding: 0 2%\">Register As Patient</a>"
                         +"</div>"
                     +"</div>"
                 +"</div>";
